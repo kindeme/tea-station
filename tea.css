@@ -464,11 +464,11 @@ text-primary {
   border-radius: 50%;
   border: 0.25rem solid var(--primaryColor);
   color: var(--mainDark);
-  transform: translateX(-50%, 50%);
+  transform: translate(-50%, 50%);
   /* box shadow */
-  -webkit-box-shadow: 9px -6px 5px -9px rgba(0, 0, 0, 0.75);
-  -moz-box-shadow: 9px -6px 5px -9px rgba(0, 0, 0, 0.75);
-  box-shadow: 9px -6px 5px -9px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 }
 /* End of services */
 /* contact  */
