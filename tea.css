@@ -456,8 +456,8 @@ text-primary {
 }
 .service-icon {
   position: absolute;
-  bottom: 34%;
-  left: 41%;
+  bottom: 0;
+  left: 50%;
   font-size: 2rem;
   background: var(--secondaryColor);
   padding: 0.25rem 0.6rem;
